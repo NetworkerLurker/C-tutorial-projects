@@ -1,0 +1,3 @@
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/10hr_tut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/10hr_tut/cmake-build-debug/CMakeFiles/10hr_tut.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/10hr_tut/cmake-build-debug/CMakeFiles/rebuild_cache.dir

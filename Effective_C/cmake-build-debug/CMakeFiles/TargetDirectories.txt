@@ -1,0 +1,6 @@
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/Effective_C/cmake-build-debug/CMakeFiles/Hello.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/Effective_C/cmake-build-debug/CMakeFiles/SwapFunction.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/Effective_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/Effective_C/cmake-build-debug/CMakeFiles/Exercise1-1.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/Effective_C/cmake-build-debug/CMakeFiles/Exercise1-2.dir
+C:/Users/justi/OneDrive/Documents/Coding/C Projects/Effective_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
